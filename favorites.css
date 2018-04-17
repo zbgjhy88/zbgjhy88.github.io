@@ -18,7 +18,7 @@ container
 }
 
 .container {
-  background: url("./images/google.png");
+  background: url("./images/baidu.png");
   background-size: cover;
   background-position: center center;
   position: absolute;
@@ -94,7 +94,7 @@ container2
 }
 
 .container2 {
-  background: url("./images/facebook.png");
+  background: url("./images/forskamse.jpg");
   background-size: cover;
   background-position: center center;
   position: absolute;
